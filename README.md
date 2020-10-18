@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img alt="Happy" src=".github/screens.png" width="100%">
+  <img alt="Happy" src=".github/screen.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
